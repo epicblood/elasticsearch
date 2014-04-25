@@ -43,7 +43,7 @@ to. The `mode` option can have the following values:
 ===== Sort mode example usage
 
 In the example below the field price has multiple prices per document.
-In this case the result hits will be sort by price ascending based on
+In this case the result hits will be sorted by price ascending based on
 the average price per document.
 
 [source,js]
